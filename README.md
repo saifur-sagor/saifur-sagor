@@ -30,6 +30,11 @@
 
 ---
 
+## 📍 **Location**
+**Dhaka, Bangladesh 🇧🇩**
+
+---
+
 ## ⚡ **Skills**
 
 ### 🚀 Frontend
