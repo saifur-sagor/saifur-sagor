@@ -31,9 +31,13 @@
 ---
 
 ## 📍 **Location**
-** Mirpu-1,Dhaka, Bangladesh**
+<p>
+  <img src="https://img.icons8.com/fluency/48/marker.png" width="22" />
+  <b>Mirpur-1, Dhaka, Bangladesh</b>
+</p>
 
 ---
+
 ## 🌐 **Connect With Me**
 <p align="left">
 
@@ -58,7 +62,8 @@
 </a>
 
 </p>
-----
+
+---
 
 ## ⚡ **Skills**
 
