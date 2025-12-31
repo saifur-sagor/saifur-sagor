@@ -2,7 +2,7 @@
 <!--           🔥 CUSTOM NEON BANNER           -->
 <!-- ========================================= -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" alt="Banner" />
+  <img src="https://i.ibb.co.com/KzjCXqf5/Abstract-Technology-Profile-Linked-In-Banner.png" width="100%" alt="Banner" />
 </p>
 
 <h1 align="center">
